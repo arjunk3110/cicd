@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-04T15:39:00 IST" name="Suite" finished-at="2024-07-04T15:39:33 IST" duration-ms="33222">
+    <groups>
+    </groups>
+    <test started-at="2024-07-04T15:39:00 IST" name="Test" finished-at="2024-07-04T15:39:33 IST" duration-ms="33222">
+      <class name="demoProject.firsttest">
+        <test-method is-config="true" signature="BrowsersetUp()[pri:0, instance:demoProject.firsttest@35432107]" started-at="2024-07-04T15:39:00 IST" name="BrowsersetUp" finished-at="2024-07-04T15:39:06 IST" duration-ms="6104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowsersetUp -->
+        <test-method signature="tc1()[pri:0, instance:demoProject.firsttest@35432107]" started-at="2024-07-04T15:39:06 IST" name="tc1" finished-at="2024-07-04T15:39:20 IST" duration-ms="13461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="tc3()[pri:0, instance:demoProject.firsttest@35432107]" started-at="2024-07-04T15:39:20 IST" name="tc3" finished-at="2024-07-04T15:39:22 IST" duration-ms="2385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method is-config="true" signature="BrowsersetUp()[pri:0, instance:demoProject.firsttest@35432107]" started-at="2024-07-04T15:39:22 IST" name="BrowsersetUp" finished-at="2024-07-04T15:39:27 IST" duration-ms="4975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowsersetUp -->
+        <test-method signature="tc2()[pri:0, instance:demoProject.firsttest@35432107]" started-at="2024-07-04T15:39:27 IST" name="tc2" finished-at="2024-07-04T15:39:32 IST" duration-ms="4929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method is-config="true" signature="tc3()[pri:0, instance:demoProject.firsttest@35432107]" started-at="2024-07-04T15:39:32 IST" name="tc3" finished-at="2024-07-04T15:39:33 IST" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- demoProject.firsttest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
